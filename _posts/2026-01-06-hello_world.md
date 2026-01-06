@@ -8,5 +8,5 @@ math: true
 
 # Hello World
 
-Hello World this is my personal blog.
+Hello World
 
