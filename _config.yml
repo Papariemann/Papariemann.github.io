@@ -91,8 +91,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-
+avatar: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmedium.com%2Fcarre4%2Fwhat-is-algebraic-topology-34a4b7b48e32&ved=0CBUQjRxqFwoTCICp3ZPM95EDFQAAAAAdAAAAABAI&opi=89978449
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
