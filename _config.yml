@@ -19,7 +19,7 @@ title: The Sheaf blog # the main title
 tagline:  Exploring (cool) mathematics # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  mathematics, high school, sheaf, cohomology, analysis, complex analysis, topology, category theory, algebraic geometry
+  A high-schooler's blog for documenting his learning journey and talking about interesting mathematical concepts
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
