@@ -4,7 +4,6 @@ layout: page
 title: About
 icon: fas fa-info-circle
 order: 4
-math: true
 ---
 
 I am Rejan, a high-schooler currently studying at the Athénée de Luxembourg. I enjoy mathematics and like learning about various topics ranging from numerical analysis and special-functions approximations to category theory. 
