@@ -7,7 +7,6 @@ order: 4
 math: true
 ---
 
-# Deez Nuts
+I am Rejan, a high-schooler currently studying at the Athénée de Luxembourg. I enjoy mathematics and like learning about various topics ranging from numerical analysis and special-functions approximation to category theory. 
 
-$$H^k(X) \cong H_{n-k}(X)$$
-
+This blog is a place for me to document my maths-learning journey and share other topics I find interesting. 
