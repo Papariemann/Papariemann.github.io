@@ -6,6 +6,13 @@ tags: [Abstract Nonsense, Categorical Bullsh*t]
 math: true
 ---
 
+
+
+In the last post, I talked about the "general" definition of $\Ext$ (in particular over $\t{R-Mod}$). Seeing as it was largely purely theoretical, I would like to go over some computations for $\Ext^1$ in particular.
+
+Perhaps one of the most typical examples of the usage of this functor is the free/syzygytic resolution of an R-module. Suppose $M$ is a module over the polynomial ring $k\[x_1, \ldots x_n \]$. By Hilbert's syzygy theorem, if $M$ is finitely generated over a polynomial ring in $n$ indeterminates over a field $k$, then the $n^{th}$ syzygy module $\text{Syz}^n (M)$ is a free module (recall that in $\text{R-Mod}$ free modules are projective!).
+Of course, to make any sense of this, it is necessary that a syzygy module is even defined. 
+
 $$
 \newcommand{\t}[1]{\text{#1}}
 \newcommand{\Ext}{\text{Ext}}
@@ -15,11 +22,6 @@ $$
 \newcommand{\Syz}{\text{Syz}}
 \newcommand{\im}{\text{im}}
 $$
-
-In the last post, I talked about the "general" definition of $\Ext$ (in particular over $\t{R-Mod}$). Seeing as it was largely purely theoretical, I would like to go over some computations for $\Ext^1$ in particular.
-
-Perhaps one of the most typical examples of the usage of this functor is the free/syzygytic resolution of an R-module. Suppose $M$ is a module over the polynomial ring $k\[x_1, \ldots x_n \]$. By Hilbert's syzygy theorem, if $M$ is finitely generated over a polynomial ring in $n$ indeterminates over a field $k$, then the $n^{th}$ syzygy module $\text{Syz}^n (M)$ is a free module (recall that in $\text{R-Mod}$ free modules are projective!).
-Of course, to make any sense of this, it is necessary that a syzygy module is even defined. 
 
 For the sake of sanity, we work over the ring $R = \mathbb{C}\[x_1, \ldots x_n\]$, and $M$ be a finitely generated $R$-module. Suppose the set $\{a_1, a_2, \ldots, a_k\} \subset M$ generates $M$. Then we may construct a sequence of $R$-linear maps (module homomorphisms) 
 
