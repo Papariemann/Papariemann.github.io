@@ -10,4 +10,6 @@ I am Rejan, a high-schooler currently studying at the Athénée de Luxembourg. I
 
 This blog is a place for me to document my maths-learning journey and share topics I find interesting. 
 
-I am currently reading Categories for the Working Mathematician by Mac Lane, as well as Algebraic Topology by Hatcher, though to a lesser extent, so these will likely influence the nature of my posts for the foreseeable future.
+I did say I was reading Mac Lane's "Categories for the Working Mathematician", and Hatcher's "Algebraic Topology", but I have since moved on to Vakil's "Rising Sea: Foundations of Algebraic Geometry", and various texts or note collections on Algebraic Geometry and Homotopy Theory as needed. One can definitely see that my posts are influenced by this reading list, by varying amounts. On that note, I should *definitely* make some posts on Algebraic Geometry, especially on Intersection Theory. 
+
+Speaking of Intersection Theory, I am currently (As of August 2026) writing an exposition on Intersection theory. Though, the way it's going, perhaps it should be called a monograph, maybe even a textbook...
